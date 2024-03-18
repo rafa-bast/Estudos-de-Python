@@ -36,6 +36,7 @@ for i in range(4):
 
 pyautogui.hotkey("ctrl","f4")
 pyautogui.press("enter")
+pyautogui.press("enter")
 
 
 
